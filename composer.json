@@ -18,7 +18,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "7.5.6",
-        "sunrise/http-message": "1.0.15"
+        "sunrise/http-message": "1.0.16"
     },
     "autoload": {
         "psr-4": {
